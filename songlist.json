@@ -16,14 +16,14 @@
     {
         "title":"Lemonade",
         "artist":"Jeremy Passion",
-        "genre":["Pop", "R&Bamp;B"],
+        "genre":["Pop", "RnB"],
         "released":"2011"
     },
     
     {
         "title":"Sour Candy"
         ,"artist":"Melt",
-        "genre":["R&Bamp;B", "Soul"],
+        "genre":["RnB", "Soul"],
         "released":"2017"
     },
     
@@ -37,14 +37,14 @@
     {
         "title":"Loving is Easy",
         "artist":"Rex Orange County",
-        "genre":["R&Bamp;B", "Alternative/Indie"],
+        "genre":["RnB", "Alternative/Indie"],
         "released":"2017"
     },
     
     {
         "title":"Jackie Onassis",
         "artist":"Sammy Rae and the Friends",
-        "genre":["R&Bamp;B"],
+        "genre":["RnB"],
         "released":"2020"
     },
     
