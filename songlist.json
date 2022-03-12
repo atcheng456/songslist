@@ -1,4 +1,4 @@
-{ "songs":[
+[
     {
         "title":"Love Like You",
         "artist":"Rebecca Sugar",
@@ -68,5 +68,5 @@
         "genre":["Alternative/Indie", "Pop"],
         "released":"2017"
     }
-]}
+]
 
